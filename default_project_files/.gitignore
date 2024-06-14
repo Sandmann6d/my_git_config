@@ -1,0 +1,26 @@
+# virtual env
+venv
+
+# IDE files
+.idea
+.vscode
+.spyderproject
+.ipynb_checkpoints
+
+# Python stuff / packages
+__pycache__/
+eggs/
+.eggs/
+*.egg
+*.egg-info
+.installed.cfg
+
+# Selenium stuff
+geckodriver.log
+geckodriver.exe
+
+# OS files
+Desktop.ini
+
+.DS_Store
+*/.DS_Store
